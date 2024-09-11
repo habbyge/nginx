@@ -8,6 +8,7 @@
 #include <ngx_config.h>
 #include <ngx_core.h>
 #include <nginx.h>
+#include <ngx_conf_file.h>
 
 
 static void ngx_show_version_info(void);
